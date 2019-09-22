@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Post"
 date:   2019-09-16 22:20:26 -0500
 categories: jekyll update
+author: Spencer Thompson
 ---
 Honestly, most of this lab was entirely new to me.  I've heard of [Ruby][Ruby] and the Command Line before, but I definitely had not had any experience with either prior to this.
 I definitely struggled when I had to run the command that made the files within the directory.  To incorporate the list, I have included every part that with which I had a problem.  These include:
