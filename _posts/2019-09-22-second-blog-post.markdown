@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introduction Post"
-date:   2019-09-16 22:20:26 -0500
+title:  "Theming"
+date:   2019-09-22 14:14:00 -0500
 categories: jekyll update
 author: Spencer Thompson
 ---
